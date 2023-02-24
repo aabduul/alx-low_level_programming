@@ -5,3 +5,4 @@ a function that prints the numbers from 0-9
 a function that prints the numbers followed by a new line
 a function that prints 10 times the number
 a function that draws a straight line inthe terminal
+a function that draws adiagonal line
