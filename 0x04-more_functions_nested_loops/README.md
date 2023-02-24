@@ -8,3 +8,4 @@ a function that draws a straight line inthe terminal
 a function that draws adiagonal line
 a function that prints a square
 a program that prints 1-10
+a program that prints a triangle followed by a new line
