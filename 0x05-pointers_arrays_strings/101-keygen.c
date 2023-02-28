@@ -4,6 +4,7 @@
 
 /**
  * main - generate random valid passwd
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -15,7 +16,7 @@ int main(void)
 
 	srand(time(NULL));
 
-	for (i = 0; < 100; i++)
+	for (i = 0; i < 100; i++)
 	{
 		pass[i] = rand() % 78;
 		sum += (pass[i] + '0');
